@@ -1,0 +1,18 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.out
+
+# IDE specific files (optional, if using an IDE)
+.idea/
+*.iml
+*.classpath
+*.project
+target/
+bin/
